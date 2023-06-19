@@ -1,0 +1,10 @@
+#image-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-item {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
